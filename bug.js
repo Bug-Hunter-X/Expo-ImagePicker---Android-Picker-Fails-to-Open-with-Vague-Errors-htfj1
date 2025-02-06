@@ -1,0 +1,1 @@
+This bug occurs when using the Expo ImagePicker library with a specific set of permissions and configurations.  The issue manifests as the picker failing to open or returning an error, despite seemingly correct setup. This often happens when targeting Android devices, particularly older versions. The error messages can be vague, offering little insight into the root cause.
